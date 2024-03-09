@@ -1,0 +1,1 @@
+export const url = "https://paytm-clone-backend-1.onrender.com"; 
